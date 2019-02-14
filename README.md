@@ -1,6 +1,6 @@
 # flutter_splash
 
-A new Flutter project.
+Flutter Splash Screen
 
 ## Getting Started
 
